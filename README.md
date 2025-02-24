@@ -35,17 +35,18 @@ is your Machine got damaged or accidently deleted the app? NEVERMIND!
 Save your data in the cloud storage everytime by using a unique Name and a Password!
 <img src="https://github.com/user-attachments/assets/27be30c0-a5eb-4e35-a5d5-3be94ead78c9" width="700" >
 
+Download for FREE from the official Github Repository <a target="_blank" href="https://github.com/EttisafRup/weexschools">here!</>
 
 #### _______________________________________________________________________________________
 
 Live Link :<a target="_blank" href="https://boighor-uvkz.onrender.com/"> BoiGhor - Buy and Gift Books Online </a> <br>
 <small>server might be sleeping, please wait for 30-40 seconds to respond.</small>
 
-## 1. BoiGhor - Buy and Gift Books Online
+## 2. BoiGhor - Buy and Gift Books Online
 an web application using nodeJS as a basement, SSR.
-![image](https://github.com/user-attachments/assets/7f11a9d1-d572-474a-891a-970775ff289b)
-![image](https://github.com/user-attachments/assets/940ecc54-5417-4468-9278-464173cb3ec8)
-![image](https://github.com/user-attachments/assets/673fe377-13e6-4bb5-ac4a-49315b80aedf)
+<img src="https://github.com/user-attachments/assets/7f11a9d1-d572-474a-891a-970775ff289b" width="700" >
+<img src="https://github.com/user-attachments/assets/940ecc54-5417-4468-9278-464173cb3ec8" width="700" >
+<img src="https://github.com/user-attachments/assets/673fe377-13e6-4bb5-ac4a-49315b80aedf" width="700" >
 
 Live Link :<a target="_blank" href="https://boighor-uvkz.onrender.com/"> BoiGhor - Buy and Gift Books Online </a> <br>
 <small>server might be sleeping, please wait for 30-40 seconds to respond.</small>
