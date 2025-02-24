@@ -1,4 +1,4 @@
-# Work Showcase:
+# ✨ Work Showcase:
 
 
 ## 1. weexSchools - Manage Like a Pro!
