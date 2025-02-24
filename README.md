@@ -39,9 +39,6 @@ Download for FREE from the official Github Repository <a target="_blank" href="h
 
 #### _______________________________________________________________________________________
 
-Live Link :<a target="_blank" href="https://boighor-uvkz.onrender.com/"> BoiGhor - Buy and Gift Books Online </a> <br>
-<small>server might be sleeping, please wait for 30-40 seconds to respond.</small>
-
 ## 2. BoiGhor - Buy and Gift Books Online
 an web application using nodeJS as a basement, SSR.
 <img src="https://github.com/user-attachments/assets/7f11a9d1-d572-474a-891a-970775ff289b" width="700" >
