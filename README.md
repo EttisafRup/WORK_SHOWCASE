@@ -3,7 +3,7 @@
 
 ## 1. weexSchools - Manage Like a Pro!
 <b> a desktop application for managing educational institute's data more efficiently! </b>
-<img src="https://github.com/user-attachments/assets/540df40a-b131-475c-858e-bd2b929d49fb" width="200"  >
+<img src="https://github.com/user-attachments/assets/540df40a-b131-475c-858e-bd2b929d49fb" width="600"  >
 ![image](https://github.com/user-attachments/assets/540df40a-b131-475c-858e-bd2b929d49fb)
 
 ## 🔰 Features:
