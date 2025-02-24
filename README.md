@@ -35,7 +35,7 @@ is your Machine got damaged or accidently deleted the app? NEVERMIND!
 Save your data in the cloud storage everytime by using a unique Name and a Password!
 <img src="https://github.com/user-attachments/assets/27be30c0-a5eb-4e35-a5d5-3be94ead78c9" width="700" >
 
-Download for FREE from the official Github Repository <a target="_blank" href="https://github.com/EttisafRup/weexschools">here!</>
+Download for FREE from the official Github Repository <a target="_blank" href="https://github.com/EttisafRup/weexschools">here!<a/>
 
 #### _______________________________________________________________________________________
 
